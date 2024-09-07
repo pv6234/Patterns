@@ -1,7 +1,7 @@
 class Pyramid_testing {
 
     public static void main(String[] args) {
-        int a = 15, i, j;
+        int a = 10, i, j;
         String[][] x = new String[a][a];
 
         //2-D Array formation
